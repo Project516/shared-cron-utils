@@ -1,0 +1,17 @@
+{
+  "name": "shared-cron-utils",
+  "version": "0.1.0",
+  "description": "Helpers shared by the Spectrum cron scripts",
+  "license": "AGPL-3.0-only",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}
