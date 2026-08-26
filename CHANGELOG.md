@@ -1,5 +1,7 @@
 # Changelog
 
+## Unreleased
+
 ## 0.1.0
 
 - `isFirestoreQuotaExceeded(err)`, previously copied into every cron in both
