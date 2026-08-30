@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.1.1
 
 - `isFirestoreQuotaExceeded` now matches the namespaced string code Firebase
   Admin emits (`firestore/resource-exhausted`), not just the numeric gRPC
