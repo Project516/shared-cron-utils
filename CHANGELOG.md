@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased
+
+- Requires Node 26 or newer (`engines.node` is now `>=26`). The code has not
+  changed.
+
 ## 0.1.1
 
 - `isFirestoreQuotaExceeded` now matches the namespaced string code Firebase

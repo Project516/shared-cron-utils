@@ -1,7 +1,7 @@
 # shared-cron-utils
 
 Small helpers the Spectrum cron scripts all need. No dependencies, CommonJS,
-Node 24.
+Node 26.
 
 Consumers pin a git tag rather than a version range, so nothing moves until a
 pull request moves it:
